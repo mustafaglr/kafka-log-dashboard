@@ -28,4 +28,4 @@ services:
       - "8050:8050"
     build: 
       context: ./dfile
-    image: qq
+    image: kafka-log-dashboard
