@@ -26,6 +26,4 @@ services:
       - mongo
     ports:
       - "8050:8050"
-    build: 
-      context: ./dfile
-    image: kafka-log-dashboard
+    image: mustafaglr/kafka-log-dashboard
