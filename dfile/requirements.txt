@@ -1,0 +1,8 @@
+datetime
+pymongo
+dash
+plotly
+dash_core_components
+dash_html_components
+confluent_kafka
+
